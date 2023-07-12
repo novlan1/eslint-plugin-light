@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-light",
-  "version": "0.0.18",
+  "version": "1.0.0",
   "description": "eslint插件",
   "keywords": [
     "eslint",
